@@ -1,0 +1,7 @@
+D:\SE\Spring24_\PRN211\Calculator\bin\Debug\Calculator.exe.config
+D:\SE\Spring24_\PRN211\Calculator\bin\Debug\Calculator.exe
+D:\SE\Spring24_\PRN211\Calculator\bin\Debug\Calculator.pdb
+D:\SE\Spring24_\PRN211\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\SE\Spring24_\PRN211\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\SE\Spring24_\PRN211\Calculator\obj\Debug\Calculator.exe
+D:\SE\Spring24_\PRN211\Calculator\obj\Debug\Calculator.pdb
